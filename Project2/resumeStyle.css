@@ -1,0 +1,38 @@
+table, th, td {
+  border: 1px solid black;
+}
+h1, h2, h3 {
+  text-align:center;
+}
+#hd{
+  text-align:center;
+  background-color:burlywood;
+  clear:both;
+  width:100%;
+  height:100px;
+}
+#ft{
+  text-align:center;
+  background-color:burlywood;
+  clear:both;
+  width:100%;
+}
+#lnav{
+background-color:burlywood;
+float:left;
+width:20%;
+height: 600px;
+}
+#rnav{
+background-color:burlywood;
+float:left;
+width:20%;
+height: 600px;
+}
+#bd{
+  background-color:burlywood;
+float:left;
+width:60%;
+height: 600px;
+  overflow:auto;
+}
